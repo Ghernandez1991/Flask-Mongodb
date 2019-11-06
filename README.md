@@ -7,4 +7,4 @@ Once data is created, store in Mongodb and create flask app to activately scrape
 
 
 
-![Alt text](static screen shot.PNG?raw=true "Optional Title")
+![Image description](https://github.com/Ghernandez1991/Flask-Mongodb/blob/master/static%20screen%20shot.PNG)
